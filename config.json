@@ -1,0 +1,12 @@
+{
+    "server":["[::0]", "0.0.0.0:1501"],
+    "mode":"tcp_and_udp",
+    "server_port":1500,
+    "local_port":1080,
+    "password":"a",
+    "timeout":60,
+    "method":"chacha20-ietf-poly1305",
+    "nameserver":"8.8.8.8",
+    "fast_open":false
+    
+}
